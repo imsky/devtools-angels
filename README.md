@@ -187,6 +187,10 @@ No particular order, please don't read anything into the ordering
 
   > I am a PM with a decade of product experience across data analytics and dev tools product. I'm currently the product lead for HashiCorp's [Waypoint](https://www.waypointproject.io/), a application delivery platform. I also invest in developer tools as a scout for Greylock. Previously, I was a product manager at GitHub where I helped build Secret Scanning and Security Overview. I also served as a tech policy advisor to US Senator Tom Udall.  If you'd like to chat, you [email me](mailto:ooadebayo@gmail.com) or [book time with me](https://calendly.com/bukky-hashicorp/angel-investing)
 
+- Jarod Reyes - [twitter](https://twitter.com/jreyesdev)
+  
+  > Developer Marketing / Developer Relations expert. Ex Twilio, Auth0 and PlanetScale. Head of Developer Community at SignalFire VC (AI-native VC). I write early stage 10-15k checks, focused on ai/devtools but also any technology that where a strong PLG motion can be executed (previously invested in music and gaming startups as well). My day job is building developer community for SignalFire VC remotely in San Diego. Feel free to [email me](mailto:jarodreyes+investing@gmail.com).
+  
 - Kareem Kouddous - [twitter](https://twitter.com/kareemk)
   
   > Founder & CTO at [Suzy](https://suzy.com), Founder & CTO at [Koko](https://kokocares.org) which sold to Airbnb and then relaunched as a non-profit (one of the two as part of YC W22). My superpower has always been figuring out how to build the least amount of product possible by finding tools and services to offload work to. At Airbnb I conceived and lead major projects to bring in vendors so that the relatively small trust and safety team could focus on truly unique problems to solve. I invest in early stage 10-20k checks, mainly focused on devtools but also technology that can meaninfully make a positive difference to society. I code almost every day, most recently falling in love with Rust. Feel free to [email me](mailto:kkouddous+investing@gmail.com) or [book time with me](https://calendly.com/kareemk).
