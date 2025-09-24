@@ -26,6 +26,7 @@ Confirmed investments:
 - [E2B.dev](https://github.com/e2b-dev/e2b)
 - [Tramline.app](https://tramline.app)
 - [Langbase](https://langbase.com/)
+- [Daytona](https://daytona.io/)
 - (we've lost count...)
 
 Intros made for: EdgeDB, Lambdragon, Cloudthread, Fiberplane, Developer Acceleration, Apptim, Metricsbird.io, Onboardbase, Platformatic, Skytable, Palette.dev, Vyne, Kombai.io, Bandar Systems, Second.dev, Leap Labs, DeeptrustAI...
@@ -157,7 +158,7 @@ No particular order, please don't read anything into the ordering
 
 - Alessio Fanelli - [site](https://alessiofanelli.com), [twitter](https://twitter.com/fanahova)
 
-  > I invest in the [Engineering Value Chain Revolution](https://evcrevolution.com/) at 645 Ventures, as well as leading our engineering and data team. I also personally angel invest in infra, dev tools, security, and blockchain tech. I previously founded Smart Torvy, an open source home automation ecosystem, and was a lead engineer at early stage companies like [Welcome Tech](https://welcome.tech/). I contribute to different open source projects [on GitHub](https://github.com/fanahova) as well as writing about open source monetization, community management, and more. You can reach me on Twitter or at afanelli[at]645ventures.com
+  > I invest in the [Engineering Value Chain Revolution](https://645ventures.com/719cdc5f78a54e08823635789b204d59) at 645 Ventures, as well as leading our engineering and data team. I also personally angel invest in infra, dev tools, security, and blockchain tech. I previously founded Smart Torvy, an open source home automation ecosystem, and was a lead engineer at early stage companies like [Welcome Tech](https://welcome.tech/). I contribute to different open source projects [on GitHub](https://github.com/fanahova) as well as writing about open source monetization, community management, and more. You can reach me on Twitter or at afanelli[at]645ventures.com
 
 - Shinji Kim & Jack McCloy - [Shinji](https://twitter.com/shinjikim), [Jack](https://twitter.com/jackmccloy)
 
@@ -197,11 +198,16 @@ No particular order, please don't read anything into the ordering
 
 - Thomas Cuvelier - [email](mailto:thomas@alven.co), [twitter](https://twitter.com/TCuvelie)
 
-> I invest in pre-seed and seed devtool and datatool companies with Alven (Algolia, Grafbase, Dataiku, etc.), and selectively in web3 tooling (i.e. NFTport). I have been coding for derivatives trading desks since 2005, and have built internal data tooling for asset managers since then. I angel invest $5-25k in technologies that excite me, and mainly support the European ecosystem. Love working closely with founders on product strategy, GTM, key hires, fundraising and market intel and connectivity.
+  > I invest in pre-seed and seed devtool and datatool companies with Alven (Algolia, Grafbase, Dataiku, etc.), and selectively in web3 tooling (i.e. NFTport). I have been coding for derivatives trading desks since 2005, and have built internal data tooling for asset managers since then. I angel invest $5-25k in technologies that excite me, and mainly support the European ecosystem. Love working closely with founders on product strategy, GTM, key hires, fundraising and market intel and connectivity.
   
 - Cassidy Williams - [site](https://cassidoo.co), [twitter](https://twitter.com/cassidoo), [linkedin](https://linkedin.com/in/cassidoo)
 
   > I invest in developer-focused startups who have diverse teams, good ideas, and exciting tech. DMing me on Discord (cassidoo#0001) or Twitter is the fastest way to reach me!
+  
+- Ivan Burazin - [twitter](https://twitter.com/ivanburazin), [linkedin](https://linkedin.com/in/ivanburazin)
+
+  >   Co-Founder & CEO at [Daytona](https://daytona.io). Previously co-founded Codeanywhere (the first cloud IDE) and Shift (Europe’s largest dev conference, acquired by Infobip). Now building one of the fastest-growing infrastructure companies, focused on agent-native compute.
+  >  I invest $1–10k checks in startups building in the [AI Enablement Stack](https://github.com/daytonaio/ai-enablement-stack)—from devtools to middleware to Agents themselves. As a founder and operator, I can help with GTM, fundraising, and positioning your company.
   
 ## Angel Alums
 
