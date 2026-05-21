@@ -217,6 +217,11 @@ Co-founder of several startups in the family physical health, family mental heal
 - Timothy Chen - [email](mailto:tim@essencevc.fund), [twitter](https://twitter.com/tnachen)
 
 > I am currently the founder of Essence VC that invests in developer and data products. I was previously CEO / founder of Hyperpilot (raised from NEA/BVP, exited to Cloudera), early employee at Mesosphere & Lightning.ai & CloudFoundry, active in the open source space (Apache Foundation Member). 
+
+- Ahmad Awais [site](https://awais.dev/about), [twitter](https://twitter.com/mrahmadawais), [email](mailto:me@AhmadAwais.com)
+
+> I'm an award-winning open-source engineer. VP of Developer Relations (DevRel & DX) at RapidAPI. Two exits, one acquisition. My software serves millions of developers, proud code contribution to NASA Ingenuity Mars mission (GitHub Stars gold award). I love automating silly grunt work with CLIs and big fan of dev-tools and dev-productivity startups. I invest time and money in developer-focused startups with diverse teams, bold ideas, and automation. [DMing me on Twitter](https://twitter.com/MrAhmadAwais/) is the fastest way to reach me.
+
   
 - Cassidy Williams - [site](https://cassidoo.co), [twitter](https://twitter.com/cassidoo), [linkedin](https://linkedin.com/in/cassidoo)
 
