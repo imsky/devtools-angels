@@ -1,6 +1,6 @@
 # devtools-angels
 
-Active angel investors in developer tools! 
+Active angel investors in developer tools!
 
 There is **no particular order** here but we aim to be high caliber [level 1](https://twitter.com/avichal/status/1132445996909092865?s=20) angels.
 
@@ -33,9 +33,9 @@ Intros made for: EdgeDB, Lambdragon, Cloudthread, Fiberplane, Developer Accelera
 
 We also have founders in the community who have listed their own raises: Recursal.ai, Mycelial, Ivy DL, Flightcontrol...
 
-And we sometimes [meet up IRL](https://twitter.com/rishabhkaul/status/1554850381049520129?s=12&t=5ugP3PflZlL9Ihhbzrku1g)! :) 
+And we sometimes [meet up IRL](https://twitter.com/rishabhkaul/status/1554850381049520129?s=12&t=5ugP3PflZlL9Ihhbzrku1g)! :)
 
-> For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md). 
+> For dev industry tracking see [sw-yx/tracking](https://github.com/sw-yx/tracking/blob/main/README.md).
 
 ## Discord
 
@@ -48,7 +48,7 @@ No particular order, please don't read anything into the ordering
 - swyx - [site](https://swyx.io/about), [twitter](https://twitter.com/swyx), [email](mailto:swyx@swyx.io)
 
   > Head of Developer Experience at Temporal, ex AWS, Netlify, Two Sigma. Writer ([swyx.io](https://swyx.io)) and Dev community organizer [/r/reactjs](https://www.swyx.io/moderating-rreactjs/), [Svelte Society](https://twitter.com/SvelteSociety), and [Coding Career](http://twitter.com/codingcareer). I do $5-15k personal checks and $25-100k scout checks in devtools startups (so far, in backend-platforms-for-frontend-devs, community engagement, frontend debugging, low code visual builders). Examples - [Circle](https://circle.so/), [Replay.io](https://a16z.com/2021/09/15/investing-in-replay/), [Supabase](https://techcrunch.com/2022/05/10/supabase-raises-80m-series-b-for-its-open-source-firebase-alternative/), [Flutterflow](https://www.producthunt.com/posts/flutterflow-3-0), [EdgeDB](https://news.ycombinator.com/item?id=30290225), [Chroma](https://twitter.com/trychroma)), [MatX](https://twitter.com/reinerpope/status/1687613039108046848).
-  
+
 - David Mytton - [site](https://davidmytton.blog), [twitter](https://twitter.com/davidmytton), [podcast](https://podcast.console.dev), [email](mailto:david@console.dev)
   > I'm co-founder of [Console](https://console.dev), a place for developers to find the best tools. I invest around $25k in early stage devtools / devops / cloud related startups and can help specifically with getting your first users/customers, and with hiring engineers. From 2009-2018, I was CEO at Server Density, a SaaS infrastructure monitoring startup acquired by StackPath, a US-based edge computing business. I am a researcher in sustainable computing at Uptime Institute and affiliated with Imperial College London. I'm also an EIR at Seedcamp.
 
@@ -58,7 +58,7 @@ No particular order, please don't read anything into the ordering
 - Max Stoiber - [site](https://mxstbr.com/investing/)
 
   > I irregularly angel invest small checks ($2500-$5000) of my own money in early-stage startups I'm excited about. Think of me as an advisor with skin in the game — I love helping with tricky, ambiguous problems, providing access to my network and audience, or even just lending an ear to founders building exciting new things.
-  
+
 - Michael Grinich - [DM](https://twitter.com/grinich/status/1357103620613840898?s=20)
 
   > I’m a technologist. I studied CS at MIT and still write code. When I invest, I specifically look for technical founders building dev tools, API platforms, and “unloved” workflow cloud SaaS. I founded both Nylas and WorkOS and worked at Dropbox so this is an area I know well. My typical check size is around $100k but I can flex and get creative for bigger rounds too. If I invest, I will offer introductions to other investors I know (and like). This can help fill out a larger round. [more here](https://twitter.com/grinich/status/1357103610421673984?s=20)
@@ -70,13 +70,13 @@ No particular order, please don't read anything into the ordering
 - David Yang - [site](http://davidyang.net)
 
   > I co-founded [Fullstack Academy](https://www.fullstackacademy.com) which has trained thousands of developers.  Currently investing $25-50K checks in devtools, low-code/no-code and ed-tech.
-  
+
 - Brian Douglas - [site](https://bdougie.live)
 
-  > I am connected to the Heavybit Accelerator in San Francisco and work in the Developer Relations at GitHub. I invest my own money into early-stage startups and excited to learn about new Developer Tools. 
+  > I am connected to the Heavybit Accelerator in San Francisco and work in the Developer Relations at GitHub. I invest my own money into early-stage startups and excited to learn about new Developer Tools.
 
 - Brianne Kimmel - [twitter](https://twitter.com/briannekimmel), [Worklife.vc](https://www.worklife.vc/)
-  
+
   > Worklife.vc, investor in Mux, WorkOS, Webflow, Stytch and more!
 
 - Ellen Chisa - [twitter](https://twitter.com/ellenchisa/), [site](https://www.ellenchisa.com/), [BoldStart.vc](https://www.boldstart.vc/)
@@ -143,15 +143,15 @@ No particular order, please don't read anything into the ordering
 - Kaelig Deloumeau-Prigent – [twitter](https://twitter.com/kaelig)
 
   > Founder of the [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/). Worked on DesignOps and design systems at Salesforce, Shopify, BBC, Guardian, and Financial Times. I write $2.5-20k checks and advise companies building tools that lower the bar for DesignOps and design systems. I can help with product strategy, usability, introduction to talent and potential customers.
-  
+
 - Chang Xu - [site](http://dev-founders.com), [twitter](https://twitter.com/_changxu)
 
   > Partner at Basis Set and organizer at [Dev Founders](https://www.basisset.com/dev-founders), a community of founders building tools for developers, ML, data science, designers, and creators. Previously founder & product manager. I write checks anywhere from $100k-3M and invest at preseed / seed stage.
-  
+
 - Ilya Lyamkin - [site](https://lyamkin.com), [twitter](https://twitter.com/ilyamkin)
 
   > I'm a senior software engineer at Spotify working on developer platform and productivity. I'm excited about early stage startups focused on dev tools, developer productivity and fintech. I write $5-25k checks and invest in teams that can turn complex problem into simple solution. My value will come from product strategy, engineering work, and hiring.
-  
+
 - Thomas Schranz - [site](https://magic.do), [twitter](https://twitter.com/__tosh), [github](http://github.com/tosh)
 
   > Working on Jam, an open source implementation of Clubhouse-like audio rooms. I'm into functional programming, machine learning, array programming languages (APL, j, q, k), no-code, command line interfaces, hosting platforms, databases, developer user-experience. I write $5-50k checks, typically pre-launch. Love working with early-stage teams on product strategy, community, marketing, branding, design, business model, hiring. StarCraft II amateur.
@@ -183,26 +183,27 @@ No particular order, please don't read anything into the ordering
 - Desigan Chinniah - [site](http://desiganchinniah.com), [twitter](https://twitter.com/cyberdees)
 
   > I am a technologist with over two-decades of dot-com experiences, including Mozilla since Firefox 3.8 in early 2010. I invest early and have a small portfolio of developer related projects including [Replay](https://replay.io/), [Athens](https://www.athensresearch.org), [Axiom](https://axiom.ai/), [Kibo School](https://kibo.school/) and [Zama](https://www.zama.ai/). I am also a member of the board of the [Tor Project](https://www.torproject.org/). You've come this far, [say hello](mailto:hello@desiganchinniah.com).
-  
+
 - Bukky Adebayo - [site](http://bukky.dev), [twitter](https://twitter.com/bukkyadebayo)
 
   > I am a PM with a decade of product experience across data analytics and dev tools product. I'm currently the product lead for HashiCorp's [Waypoint](https://www.waypointproject.io/), a application delivery platform. I also invest in developer tools as a scout for Greylock. Previously, I was a product manager at GitHub where I helped build Secret Scanning and Security Overview. I also served as a tech policy advisor to US Senator Tom Udall.  If you'd like to chat, you [email me](mailto:ooadebayo@gmail.com) or [book time with me](https://calendly.com/bukky-hashicorp/angel-investing)
 
 - Jarod Reyes - [twitter](https://twitter.com/jreyesdev)
-  
+
   > Developer Marketing / Developer Relations expert. Ex Twilio, Auth0 and PlanetScale. Head of Developer Community at SignalFire VC (AI-native VC). I write early stage 10-15k checks, focused on ai/devtools but also any technology that where a strong PLG motion can be executed (previously invested in music and gaming startups as well). My day job is building developer community for SignalFire VC remotely in San Diego. Feel free to [email me](mailto:jarodreyes+investing@gmail.com).
-  
+
 - Kareem Kouddous - [twitter](https://twitter.com/kareemk)
-  
+
   > Founder & CTO at [Suzy](https://suzy.com), Founder & CTO at [Koko](https://kokocares.org) which sold to Airbnb and then relaunched as a non-profit (one of the two as part of YC W22). My superpower has always been figuring out how to build the least amount of product possible by finding tools and services to offload work to. At Airbnb I conceived and lead major projects to bring in vendors so that the relatively small trust and safety team could focus on truly unique problems to solve. I invest in early stage 10-20k checks, mainly focused on devtools but also technology that can meaninfully make a positive difference to society. I code almost every day, most recently falling in love with Rust. Feel free to [email me](mailto:kkouddous+investing@gmail.com) or [book time with me](https://calendly.com/kareemk).
-   
+
 - Gyan Kapur  - [site](http://surface.vc), [twitter](https://twitter.com/KapurGyan)
-  
+
   > I run a fund that is focused on B2B software including developer tools, data infrastructure, and DevOps.  Fairly polyglot in the developer space, started writing code actively (Perl) back in 2000 when I was 13 and have build some distributed pricing systems for synthetic credit and currency exotic options in the early 2010s when we called the cloud "the grid."
 
 - Ben Seymour  - [site](http://benseymour.com), [twitter](https://twitter.com/bseymour)
-  
-  > Revenue, growth and expansion focused leader, former developer, occasional author - currently Director of Sales Engineering at Vercel, previously Adobe, Cloudinary. Based in Oxford, (U.K.) with 15+ years experience as remote-first member of US, IL and UK startups - often as first hire in role or region. Proven track record in bringing new products and services to market, or existing ones to new markets and territories. 
+
+  > Revenue, growth and expansion focused leader, former developer, occasional author - currently Director of Sales Engineering at Vercel, previously Adobe, Cloudinary. Based in Oxford, (U.K.) with 15+ years experience as remote-first member of US, IL and UK startups - often as first hire in role or region. Proven track record in bringing new products and services to market, or existing ones to new markets and territories.
+
 Co-founder of several startups in the family physical health, family mental health, and family storytelling and retention spaces. I've previously invested in SaaS services relating to media management, content management and knowledge management - typically invest at the $1-10k tier and occasionally in the $50k tier.
 
 
@@ -216,17 +217,16 @@ Co-founder of several startups in the family physical health, family mental heal
 
 - Timothy Chen - [email](mailto:tim@essencevc.fund), [twitter](https://twitter.com/tnachen)
 
-> I am currently the founder of Essence VC that invests in developer and data products. I was previously CEO / founder of Hyperpilot (raised from NEA/BVP, exited to Cloudera), early employee at Mesosphere & Lightning.ai & CloudFoundry, active in the open source space (Apache Foundation Member). 
+  > I am currently the founder of Essence VC that invests in developer and data products. I was previously CEO / founder of Hyperpilot (raised from NEA/BVP, exited to Cloudera), early employee at Mesosphere & Lightning.ai & CloudFoundry, active in the open source space (Apache Foundation Member).
 
 - Ahmad Awais [site](https://awais.dev/about), [twitter](https://twitter.com/mrahmadawais), [email](mailto:me@AhmadAwais.com)
 
-> I'm an award-winning open-source engineer. VP of Developer Relations (DevRel & DX) at RapidAPI. Two exits, one acquisition. My software serves millions of developers, proud code contribution to NASA Ingenuity Mars mission (GitHub Stars gold award). I love automating silly grunt work with CLIs and big fan of dev-tools and dev-productivity startups. I invest time and money in developer-focused startups with diverse teams, bold ideas, and automation. [DMing me on Twitter](https://twitter.com/MrAhmadAwais/) is the fastest way to reach me.
+  > I'm an award-winning open-source engineer. VP of Developer Relations (DevRel & DX) at RapidAPI. Two exits, one acquisition. My software serves millions of developers, proud code contribution to NASA Ingenuity Mars mission (GitHub Stars gold award). I love automating silly grunt work with CLIs and big fan of dev-tools and dev-productivity startups. I invest time and money in developer-focused startups with diverse teams, bold ideas, and automation. [DMing me on Twitter](https://twitter.com/MrAhmadAwais/) is the fastest way to reach me.
 
-  
 - Ian McCrystal - [twitter](https://twitter.com/ianmst)
 
   > Head of developer docs at Stripe. 10-20k checks. SF based. Feel free to DM me on Twitter.
-  
+
 - Cassidy Williams - [site](https://cassidoo.co), [twitter](https://twitter.com/cassidoo), [linkedin](https://linkedin.com/in/cassidoo)
 
   > I invest in developer-focused startups who have diverse teams, good ideas, and exciting tech. DMing me on Discord (cassidoo#0001) or Twitter is the fastest way to reach me!
@@ -237,21 +237,21 @@ Co-founder of several startups in the family physical health, family mental heal
 
 - Nick Sullivan - [site](https://nicksullivan.org), [twitter](https://twitter.com/grittygrease), [linkedin](https://linkedin.com/in/ntsullivan)
 
-> I have a keen eye for innovative businesses and have a particular focus on empowering developers to enhance privacy and security online. Building on my experince building digital services at Apple and helping Cloudflare grow from a 40 person startup to a successful public company as an engineer, manager and Head of Research, I aim to create lasting value for the companies I invest in, and the industry as a whole. My investments range from 2k-20k depending on the stage of the company. You can reach me via LinkedIn, e-mail, or Twitter DM.
-  
+  > I have a keen eye for innovative businesses and have a particular focus on empowering developers to enhance privacy and security online. Building on my experince building digital services at Apple and helping Cloudflare grow from a 40 person startup to a successful public company as an engineer, manager and Head of Research, I aim to create lasting value for the companies I invest in, and the industry as a whole. My investments range from 2k-20k depending on the stage of the company. You can reach me via LinkedIn, e-mail, or Twitter DM.
+
 - Ivan Burazin - [twitter](https://twitter.com/ivanburazin), [linkedin](https://linkedin.com/in/ivanburazin)
 
-  >   Co-Founder & CEO at [Daytona](https://daytona.io). Previously co-founded Codeanywhere (the first cloud IDE) and Shift (Europe’s largest dev conference, acquired by Infobip). Now building one of the fastest-growing infrastructure companies, focused on agent-native compute.
-  >  I invest $1–10k checks in startups building in the [AI Enablement Stack](https://github.com/daytonaio/ai-enablement-stack)—from devtools to middleware to Agents themselves. As a founder and operator, I can help with GTM, fundraising, and positioning your company.
+  > Co-Founder & CEO at [Daytona](https://daytona.io). Previously co-founded Codeanywhere (the first cloud IDE) and Shift (Europe’s largest dev conference, acquired by Infobip). Now building one of the fastest-growing infrastructure companies, focused on agent-native compute.
+  > I invest $1–10k checks in startups building in the [AI Enablement Stack](https://github.com/daytonaio/ai-enablement-stack)—from devtools to middleware to Agents themselves. As a founder and operator, I can help with GTM, fundraising, and positioning your company.
 
 - Nikitha Suryadevara - [site](https://nikitha.co/), [twitter](https://twitter.com/__nikitha)
 
   > PM at Temporal. Previously PM at Google working on Borg and at VMware working on Kubernetes. I invest in developer tooling and infrastructure startups. If you'd like to chat, [email me](mailto:me@nikitha.co) or DM me on Twitter!
 
 - Mike Piccolo - [twitter](https://twitter.com/mfpiccolo)
-  
+
   > Cofounder & CTO at [FullStack](https://www.fullstack.com/) and [FullStack Labs](https://www.fullstacklabs.co/) software consulting and Latin American talent network. I invest in pre-seed & seed-stage developer tools, AI, and b2b SaaS. Feel free to DM me [@mfpiccolo](https://twitter.com/mfpiccolo).
-  
+
 - Ani Mohan - [site](https://animohan.me/), [twitter](https://twitter.com/ani_c_mohan), [linkedin](https://www.linkedin.com/in/anirudhmohan/)
 
   > Building an LLM-powered app development platform for non-developers. Previously co-founded and sold a gaming business to Google (GameSnacks). I invest in developer-focused startups using AI in creative ways (as well as consumer and media startups). I love helping founders with management, conflict resolution, product strategy, user research, communications, and managing their psychology.
@@ -266,7 +266,7 @@ Co-founder of several startups in the family physical health, family mental heal
 
 - Debosmit Ray (debo) - [email](mailto:ray.debosmit92@gmail.com), [linkedin](https://www.linkedin.com/in/debosmit-ray-debo-76725988/)
 
-> Currently, co-founder and CEO at [DevZero](devzero.io). Previously, staff engineer at Uber working on infra, devtools and security. I care deeply about developers, developer productivity and overall developer experience. I invest in devtools, infra and security companies and mainly focus on the pre-seed and seed stages. I invest between $10-25k and help with core engineering, fundraising, hiring, and early customer conversations.
+  > Currently, co-founder and CEO at [DevZero](devzero.io). Previously, staff engineer at Uber working on infra, devtools and security. I care deeply about developers, developer productivity and overall developer experience. I invest in devtools, infra and security companies and mainly focus on the pre-seed and seed stages. I invest between $10-25k and help with core engineering, fundraising, hiring, and early customer conversations.
 
 ## Angel Alums
 
