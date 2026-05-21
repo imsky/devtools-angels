@@ -211,6 +211,10 @@ No particular order, please don't read anything into the ordering
 - Thiago Avelino - [site](https://avelino.run), [twitter](https://twitter.com/avelinorun)
 
   > I'm passionate about open source and open startup culture. I've created and maintain several open source projects/products, the most popular being [awesome-go](https://github.com/avelino/awesome-go), [moclojer](https://github.com/moclojer/moclojer), [prestd](https://github.com/prest/prest), and [vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap). I can help with technology strategy, product launch strategy (market entry), and open culture (open source and open startup). I make small personal investments, and for larger sums, I involve my VC (above series A).
+
+- Nick Sullivan - [site](https://nicksullivan.org), [twitter](https://twitter.com/grittygrease), [linkedin](https://linkedin.com/in/ntsullivan)
+
+> I have a keen eye for innovative businesses and have a particular focus on empowering developers to enhance privacy and security online. Building on my experince building digital services at Apple and helping Cloudflare grow from a 40 person startup to a successful public company as an engineer, manager and Head of Research, I aim to create lasting value for the companies I invest in, and the industry as a whole. My investments range from 2k-20k depending on the stage of the company. You can reach me via LinkedIn, e-mail, or Twitter DM.
   
 - Ivan Burazin - [twitter](https://twitter.com/ivanburazin), [linkedin](https://linkedin.com/in/ivanburazin)
 
