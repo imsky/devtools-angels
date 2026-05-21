@@ -223,6 +223,10 @@ Co-founder of several startups in the family physical health, family mental heal
 > I'm an award-winning open-source engineer. VP of Developer Relations (DevRel & DX) at RapidAPI. Two exits, one acquisition. My software serves millions of developers, proud code contribution to NASA Ingenuity Mars mission (GitHub Stars gold award). I love automating silly grunt work with CLIs and big fan of dev-tools and dev-productivity startups. I invest time and money in developer-focused startups with diverse teams, bold ideas, and automation. [DMing me on Twitter](https://twitter.com/MrAhmadAwais/) is the fastest way to reach me.
 
   
+- Ian McCrystal - [twitter](https://twitter.com/ianmst)
+
+  > Head of developer docs at Stripe. 10-20k checks. SF based. Feel free to DM me on Twitter.
+  
 - Cassidy Williams - [site](https://cassidoo.co), [twitter](https://twitter.com/cassidoo), [linkedin](https://linkedin.com/in/cassidoo)
 
   > I invest in developer-focused startups who have diverse teams, good ideas, and exciting tech. DMing me on Discord (cassidoo#0001) or Twitter is the fastest way to reach me!
