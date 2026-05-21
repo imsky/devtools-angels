@@ -216,6 +216,10 @@ No particular order, please don't read anything into the ordering
 
   >   Co-Founder & CEO at [Daytona](https://daytona.io). Previously co-founded Codeanywhere (the first cloud IDE) and Shift (Europe’s largest dev conference, acquired by Infobip). Now building one of the fastest-growing infrastructure companies, focused on agent-native compute.
   >  I invest $1–10k checks in startups building in the [AI Enablement Stack](https://github.com/daytonaio/ai-enablement-stack)—from devtools to middleware to Agents themselves. As a founder and operator, I can help with GTM, fundraising, and positioning your company.
+
+- Nikitha Suryadevara - [site](https://nikitha.co/), [twitter](https://twitter.com/__nikitha)
+
+  > PM at Temporal. Previously PM at Google working on Borg and at VMware working on Kubernetes. I invest in developer tooling and infrastructure startups. If you'd like to chat, [email me](mailto:me@nikitha.co) or DM me on Twitter!
   
 ## Angel Alums
 
