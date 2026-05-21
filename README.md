@@ -220,6 +220,10 @@ No particular order, please don't read anything into the ordering
 - Nikitha Suryadevara - [site](https://nikitha.co/), [twitter](https://twitter.com/__nikitha)
 
   > PM at Temporal. Previously PM at Google working on Borg and at VMware working on Kubernetes. I invest in developer tooling and infrastructure startups. If you'd like to chat, [email me](mailto:me@nikitha.co) or DM me on Twitter!
+
+- Mike Piccolo - [twitter](https://twitter.com/mfpiccolo)
+  
+  > Cofounder & CTO at [FullStack](https://www.fullstack.com/) and [FullStack Labs](https://www.fullstacklabs.co/) software consulting and Latin American talent network. I invest in pre-seed & seed-stage developer tools, AI, and b2b SaaS. Feel free to DM me [@mfpiccolo](https://twitter.com/mfpiccolo).
   
 ## Angel Alums
 
