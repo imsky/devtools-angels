@@ -264,6 +264,10 @@ Co-founder of several startups in the family physical health, family mental heal
 
   > I'm a designer and developer, co-founder of [Segment](https://segment.com), and creator of open-source tools like [Slate](https://github.com/ianstormtaylor/slate), [Superstruct](https://github.com/ianstormtaylor/superstruct), etc. I periodically write $10–25K checks to founders building developer/designer tools I’d want to use myself, where I think I can be helpful with early stage product, design, engineering, and marketing problems.
 
+- Debosmit Ray (debo) - [email](mailto:ray.debosmit92@gmail.com), [linkedin](https://www.linkedin.com/in/debosmit-ray-debo-76725988/)
+
+> Currently, co-founder and CEO at [DevZero](devzero.io). Previously, staff engineer at Uber working on infra, devtools and security. I care deeply about developers, developer productivity and overall developer experience. I invest in devtools, infra and security companies and mainly focus on the pre-seed and seed stages. I invest between $10-25k and help with core engineering, fundraising, hiring, and early customer conversations.
+
 ## Angel Alums
 
 Paused Investing but still open to chat/want to be on our list.
