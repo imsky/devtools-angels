@@ -207,6 +207,10 @@ No particular order, please don't read anything into the ordering
 - Paul Klein IV - [site](https://hawkhill.ventures), [twitter](https://twitter.com/pk_iv), [memos](https://memos.hawkhill.ventures), [email](mailto:paul@hawkhill.ventures)
 
   > I'm a software engineer and startup founder focused on developer tools and infrastructure. I've fundraised, built, and sold startups before and now spend most of my time advising other founders. I've worked at developer tools companies such as Twilio and Mux. Now, I invest in pre-product, pre-seed, and seed startups with $5-15k personal checks and $10-25k scout checks for a16z.
+
+- Timothy Chen - [email](mailto:tim@essencevc.fund), [twitter](https://twitter.com/tnachen)
+
+> I am currently the founder of Essence VC that invests in developer and data products. I was previously CEO / founder of Hyperpilot (raised from NEA/BVP, exited to Cloudera), early employee at Mesosphere & Lightning.ai & CloudFoundry, active in the open source space (Apache Foundation Member). 
   
 - Cassidy Williams - [site](https://cassidoo.co), [twitter](https://twitter.com/cassidoo), [linkedin](https://linkedin.com/in/cassidoo)
 
