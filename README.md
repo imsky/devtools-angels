@@ -252,6 +252,11 @@ Co-founder of several startups in the family physical health, family mental heal
 
   > Building an LLM-powered app development platform for non-developers. Previously co-founded and sold a gaming business to Google (GameSnacks). I invest in developer-focused startups using AI in creative ways (as well as consumer and media startups). I love helping founders with management, conflict resolution, product strategy, user research, communications, and managing their psychology.
 
+
+- Marc Seitz - [site](https://mfts.io), [twitter](https://twitter.com/mfts0)
+
+  > I founded Hackerbay backed by NFX and write angel checks ($5-15K) in open source or dev tool startups. I invest in startups globally, but prefer legal entities I know (Delaware, Europe, Singapore). I can help best with everything product, distribution, fundraising, and eventually when needed, infra scaling. The best way to reach me is DM on Twitter.
+
 ## Angel Alums
 
 Paused Investing but still open to chat/want to be on our list.
